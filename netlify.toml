@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/terminal"
+  to = "/terminal.html"
+  status = 200

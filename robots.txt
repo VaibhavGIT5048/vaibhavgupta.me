@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaibhavgit5048.github.io/vaibhavgupta.me/sitemap.xml
