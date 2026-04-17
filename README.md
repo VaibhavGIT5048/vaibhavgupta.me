@@ -1,13 +1,13 @@
 # Vaibhav Gupta Portfolio
 
 <p align="center">
-	<a href="https://portfolio.vaibhavgupta.me/">
+	<a href="https://vaibhavgit5048.github.io/vaibhavgupta.me/">
 		<img src="image/social-share.png" alt="Vaibhav Gupta Portfolio Preview" width="100%" />
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://portfolio.vaibhavgupta.me/"><img alt="Live Site" src="https://img.shields.io/badge/Live-GitHub%20Pages-111111?style=for-the-badge&logo=github"></a>
+	<a href="https://vaibhavgit5048.github.io/vaibhavgupta.me/"><img alt="Live Site" src="https://img.shields.io/badge/Live-GitHub%20Pages-111111?style=for-the-badge&logo=github"></a>
 	<img alt="Stack" src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JavaScript-ffd93d?style=for-the-badge&logo=javascript&logoColor=111111">
 	<img alt="Status" src="https://img.shields.io/badge/Owner-Vaibhav%20Gupta-66d9ef?style=for-the-badge">
 </p>
@@ -16,7 +16,7 @@ A neo-brutalist personal portfolio built with vanilla HTML, CSS, and JavaScript.
 
 This is a personal creative project, not a production template. The codebase is designed for experimentation, motion, and visual storytelling.
 
-Live site: https://portfolio.vaibhavgupta.me/
+Live site: https://vaibhavgit5048.github.io/vaibhavgupta.me/
 
 ## What is Neo-Brutalism?
 
